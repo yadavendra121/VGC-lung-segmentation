@@ -1,4 +1,5 @@
-# testing part for lung segmentation on model VSMTrans that is trained on VGC data (140 subjects)
+# Testing part for Lung segmentation using the model VSmTrans that is trained on VGC data (140 subjects)
+
 1. Make VSmTrans environment in Python 3.11
 2. Install the VSmTrans package in that environment. The installation guide for VSmTrans can be found here- https://github.com/QZBai/VSmTrans.
 	
